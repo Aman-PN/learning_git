@@ -1,1 +1,1 @@
-abcd
+print("love you")
